@@ -1,0 +1,25 @@
+.container {
+  border: 2px solid red;
+  background-color: #f8f9fa;
+}
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    cursor: pointer;
+    background-color: #f4f4f4;
+  }
+  .filters input {
+    margin: 0 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
